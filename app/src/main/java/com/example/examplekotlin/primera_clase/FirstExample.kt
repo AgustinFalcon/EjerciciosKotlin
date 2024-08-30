@@ -1,5 +1,6 @@
 package com.example.examplekotlin.primera_clase
 
+import com.example.examplekotlin.polimorfismo.Animal
 
 
 fun main() {
